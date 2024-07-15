@@ -1,0 +1,17 @@
+{
+"applinks": {
+        "apps": [],
+        "details": [
+            { "appID": "9788X9JWK3.ru.tvoydom",
+                "paths": [
+                    "/catalog/*"
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "9788X9JWK3.ru.tvoydom"
+        ]
+    }
+}
